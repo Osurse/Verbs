@@ -1,0 +1,27 @@
+#next{
+    margin-top: 8rem;
+    cursor: pointer;
+    color: green;
+}
+#verbs-container{
+    margin: 0 35%;
+}
+.verbs-answer{
+    display: block;
+}
+
+.right+answer, .rightAnswer:hover{
+    background-color: #6ab04c;
+    border-color: #6ab04c;
+    color: #fff;
+}
+
+.wrongAnser, .wrongAnser:hover{
+    background-color: #b33030;
+    border-color: #b33030;
+    color: #fff;
+}
+
+.destacado .importante{
+    color: red;
+}
